@@ -1,0 +1,7 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\TEMP\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\biblioteka.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\biblioteka.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\TEMP\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

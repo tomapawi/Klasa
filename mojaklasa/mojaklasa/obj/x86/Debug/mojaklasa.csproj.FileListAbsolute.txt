@@ -1,0 +1,7 @@
+C:\Users\TEMP\documents\visual studio 2010\Projects\mojaklasa\mojaklasa\bin\Debug\mojaklasa.exe
+C:\Users\TEMP\documents\visual studio 2010\Projects\mojaklasa\mojaklasa\bin\Debug\mojaklasa.pdb
+C:\Users\TEMP\documents\visual studio 2010\Projects\mojaklasa\mojaklasa\bin\Debug\biblioteka.pdb
+C:\Users\TEMP\documents\visual studio 2010\Projects\mojaklasa\mojaklasa\obj\x86\Debug\mojaklasa.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\documents\visual studio 2010\Projects\mojaklasa\mojaklasa\obj\x86\Debug\mojaklasa.exe
+C:\Users\TEMP\documents\visual studio 2010\Projects\mojaklasa\mojaklasa\obj\x86\Debug\mojaklasa.pdb
+C:\Users\TEMP\documents\visual studio 2010\Projects\mojaklasa\mojaklasa\bin\Debug\biblioteka.dll

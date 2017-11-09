@@ -1,0 +1,5 @@
+c:\users\temp\documents\visual studio 2010\Projects\biblioteka\biblioteka\bin\Debug\biblioteka.dll
+c:\users\temp\documents\visual studio 2010\Projects\biblioteka\biblioteka\bin\Debug\biblioteka.pdb
+c:\users\temp\documents\visual studio 2010\Projects\biblioteka\biblioteka\obj\Debug\biblioteka.dll
+c:\users\temp\documents\visual studio 2010\Projects\biblioteka\biblioteka\obj\Debug\biblioteka.pdb
+C:\Users\TEMP\Documents\Visual Studio 2010\Projects\biblioteka\biblioteka\obj\Debug\biblioteka.csprojResolveAssemblyReference.cache
